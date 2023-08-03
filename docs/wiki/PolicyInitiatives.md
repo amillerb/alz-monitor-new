@@ -48,6 +48,14 @@ This initiative is intended for assignment of policies relevant to networking co
 | Deploy_activitylog_RouteTable_Update | [deploy-activitylog-RouteTable-Update.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-activitylog-RouteTable-Update.json)  | deployIfNotExists |
 | Deploy_activitylog_NSG_Delete | [deploy-activitylog-NSG-Del.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-activitylog-NSG-Del.json)  | deployIfNotExists |
 | Deploy_activitylog_VPNGateway_Delete | [deploy-activitylog-VPNGate-Del.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-activitylog-VPNGate-Del.json)  | deployIfNotExists |
+| Deploy_AG_FailedRequests_Alert | [deploy-ag_FailedRequests_alert.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-ag_FailedRequests_alert.json)  | deployIfNotExists |
+| Deploy_AG_ResponseStatus_Alert | [deploy-ag_ResponseStatus_alert.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-ag_ResponseStatus_alert.json)  | deployIfNotExists |
+| Deploy_AG_UnhealthyHostCount_Alert | [deploy-ag_UnhealthyHostCount_alert.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-ag_UnhealthyHostCount_alert.json)  | deployIfNotExists |
+| Deploy_AG_CPUUtilization_Alert | [deploy-ag_cpuutil_alert.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-ag_cpuutil_alert.json)  | deployIfNotExists |
+| Deploy_ALB_GlobalBackendAvailability_Alert | [deploy-alb_GlobalBackendAvailability_alert.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-alb_GlobalBackendAvailability_alert.json)  | deployIfNotExists |
+| Deploy_ALB_HealthProbeStatus_Alert | [deploy-alb_HealthProbeStatus_alert.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-alb_HealthProbeStatus_alert.json)  | deployIfNotExists |
+| Deploy_ALB_UsedSNATPorts_Alert | [deploy-alb_UsedSNATPorts_alert.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-alb_UsedSNATPorts_alert.json)  | deployIfNotExists |
+| Deploy_ALB_DataPathAvailability_Alert | [deploy-alb_datapathavailability_alert.json](https://github.com/Azure/alz-monitor/blob/main/src/resources/Microsoft.Authorization/policyDefinitions/deploy-alb_datapathavailability_alert.json)  | deployIfNotExists |
 
 ## Management initiative
 
